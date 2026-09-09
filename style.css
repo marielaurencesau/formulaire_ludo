@@ -45,6 +45,7 @@ input:user-invalid {
 
 input:user-valid {
   border-color: #059669;
+
 }
 
  
@@ -65,7 +66,10 @@ input:user-valid {
    la main sur l'ombre de Bootstrap.
    -------------------------------------------------------------------- */
 
+input:focus, select:focus {
+   outline:  solid #05966933;
 
+}
 
 
 /* =====================================================================

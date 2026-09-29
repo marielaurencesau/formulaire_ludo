@@ -66,10 +66,7 @@ input:user-valid {
    la main sur l'ombre de Bootstrap.
    -------------------------------------------------------------------- */
 
-input:focus, select:focus {
-   outline:  solid #05966933;
-
-}
+/*input:focus, select:focus {}*/
 
 
 /* =====================================================================
